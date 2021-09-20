@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+Full Stack Developer with a BA degree and a passion for creative responsive web design. Check out some of my work!
 
 ### Stats about me
 
