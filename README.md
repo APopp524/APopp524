@@ -1,24 +1,15 @@
-## Hello 👋
+# Hi, I'm Andrew 👋
 
-I am a Full Stack Developer with a BA degree and a passion for creative responsive web and mobile design. Check out some of my work on my portfolio page!
+Full Stack Engineer building **clean, reusable components** and **data-driven apps**. I enjoy building clean, reliable products that people actually use. I spend most of my time working with React, Vue, PHP, TypeScript, Node.js, and modern cloud tooling, shipping features end to end and focusing on performance, clarity, and maintainability.
 
-### Stats about me
+---
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=APopp524&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515))
+## 🛠️ Tech Stack
+React • Vue • JavaScript/TypeScript • PHP • Node.js • MySQL/PostgreSQL • REST & GraphQL • Docker • Git
 
+---
 
-
-<!--
-**APopp524/APopp524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Enjoy Building
+- Reusable **UI libraries & components**
+- **Sports analytics & data apps**
+- Full stack applications with clean, maintainable code
